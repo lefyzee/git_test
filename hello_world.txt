@@ -1,1 +1,3 @@
 Today we are hellowing the world with Git commands!
+Here is the second file I will be testing Git with using VScode :D
+Now I will be testing the "git add ." command
